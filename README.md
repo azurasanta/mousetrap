@@ -59,7 +59,7 @@ It has support for `keypress`, `keydown`, and `keyup` events on specific keys, k
         });
     </script>
     ```
-
+    
 ## Why Mousetrap?
 
 There are a number of other similar libraries out there so what makes this one different?
